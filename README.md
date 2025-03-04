@@ -1,7 +1,7 @@
 # Liquid PyTorch
 
 <p align="center">
-  <img src="Liquid.png" alt="Liquid" style="display:block; margin:auto; width:950px;" />
+  <img src="Liquid.png" alt="Liquid" style="display:block; margin:auto; width:1050px;" />
 </p>
 
 PyTorch implementation of Liquid.
